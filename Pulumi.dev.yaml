@@ -1,0 +1,6 @@
+environment:
+- AwsOIDC
+config:
+  esc_with_deployments:errorDocument: error.html
+  esc_with_deployments:indexDocument: index.html
+  esc_with_deployments:path: ./www
